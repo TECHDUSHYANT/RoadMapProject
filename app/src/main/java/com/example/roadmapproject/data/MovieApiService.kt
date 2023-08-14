@@ -13,6 +13,4 @@ interface MovieApiService {
     suspend fun getMovieList(): MoviesResponse
 
 
-
-
 }
